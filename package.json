@@ -1,0 +1,17 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "simple api",
+  "main": "app.js",
+  "scripts": {
+    "test": "Miklos Herald Narra"
+  },
+  "dependencies": {
+    "body-parser": "*",
+    "express": "*",
+    "mongoose": "*",
+    "nodemon": "^1.18.4"
+  },
+  "author": "Miklos Herald Narra",
+  "license": "ISC"
+}
